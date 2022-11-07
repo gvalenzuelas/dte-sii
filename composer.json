@@ -1,0 +1,21 @@
+{
+    "name": "gvalenzuela/dte-sii",
+    "description": "Library to generate electronic documents in the SII.",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gvalenzuela\\DteSii\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gonzalo Valenzuela",
+            "email": "gvalenzuelas@gmail.com"
+        }
+    ],
+    "require": {}
+}
