@@ -11,6 +11,11 @@
             "Gvalenzuela\\DteSii\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Gonzalo Valenzuela",
